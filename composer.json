@@ -1,0 +1,15 @@
+{
+	"name": "krosscode/xml-to-object",
+	"description": "Converts XML into an object",
+	"type": "library",
+	"license": "GPL-3.0-or-later",
+	"require": {
+		"php": "^7.0"
+	},
+	"autoload": {
+		"files": [
+			"XmlToObject.php"
+		]
+	}
+}
+
